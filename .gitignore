@@ -1,0 +1,76 @@
+# Compiled class files
+*.class
+
+# Java binary logs
+hs_err_pid*
+
+# IntelliJ IDEA / JetBrains IDEs
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# Eclipse IDE
+.metadata/
+*.classpath
+*.project
+*.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nblibraries.properties
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/
+gradle-app.setting
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Coverage reports
+coverage/
+*.exec
+*.ec
+*.em
+
+# Java test reports
+test-results/
+surefire-reports/
+failsafe-reports/
